@@ -51,6 +51,8 @@ STM32F401CCU6
 ✔ FFT-based THD measurement
 ✔ Over-voltage, under-voltage, and over-current protection
 
+ # 🟩 PCB preview
+ <img width="1308" height="723" alt="pcb" src="https://github.com/user-attachments/assets/8e83c4ac-c723-469e-aceb-394f843fbe22" />
 
 
 
