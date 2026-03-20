@@ -1,9 +1,9 @@
-# ⚡7-Level Cascaded H-Bridge Multilevel Inverter
+# 7-Level Cascaded H-Bridge Multilevel Inverter
 
 A 7-Level Cascaded H-Bridge (CHB) Multilevel Inverter designed to generate high-quality AC output using Phase-Shifted Sinusoidal PWM (PS-SPWM) control implemented on an STM32F401 microcontroller.
 
 
-## 📌 Project Overview
+# Project Overview
 
 This project consists of:
 
@@ -13,34 +13,34 @@ This project consists of:
 - **Target Applications**: Motor drives, renewable energy systems, medium-voltage inverter systems  
 
 
-# 🟢 Hardware
+# Hardware
 
 Designed using KiCad (EDA Suite)
 
 
-## 🔧 Hardware Features
+# Hardware Features
 - 3 Cascaded H-Bridge cells
 - 7-level stepped AC output
 - Modular and scalable architecture
 - Designed for reduced harmonic distortion
 
 
-# 🔵 Firmware
+# Firmware
 Generated using STM32CubeMX  
 Developed using STM32CubeIDE  
 
 
-## 🧠 Microcontroller
+# Microcontroller
 STM32F401CCU6
 
 
-## ⚙️ Control Strategy
+# Control Strategy
 - Phase-Shifted Sinusoidal PWM (PS-SPWM)
 - Configurable switching frequency
 - Modular control structure
 
 
-# 🚀 Key Features
+# Key Features
 
 ✔ Reduced Total Harmonic Distortion (THD)  
 ✔ Modular multilevel inverter topology  
@@ -51,8 +51,8 @@ STM32F401CCU6
 ✔ FFT-based THD measurement
 ✔ Over-voltage, under-voltage, and over-current protection
 
- # 🟩 PCB preview
- <img width="1308" height="723" alt="pcb" src="https://github.com/user-attachments/assets/8e83c4ac-c723-469e-aceb-394f843fbe22" />
+# Prototype Setup
+![20260317_141503 jpg](https://github.com/user-attachments/assets/dda3c92c-85f1-4290-87a7-a9eeb90ee464)
 
 
 
